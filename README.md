@@ -27,8 +27,7 @@ Features JWT authentication, full CRUD operations, filtering, and reading statis
 | **Passlib + bcrypt** | Password hashing |
 | **Uvicorn** | ASGI server |
 
----
-
+```
 ## Project Structure
 book-tracker-api/
 ├── app/
@@ -43,8 +42,8 @@ book-tracker-api/
 ├── requirements.txt
 ├── .env.example
 └── .gitignore
+```
 
----
 ## Getting Started
 
 ### 1. Clone the repository

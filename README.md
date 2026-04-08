@@ -40,7 +40,7 @@ book-tracker-api/
 │       └── books.py     # /books endpoints
 ├── main.py              # App entry point
 ├── requirements.txt
-├── .env.example
+├── .env
 └── .gitignore
 ```
 
